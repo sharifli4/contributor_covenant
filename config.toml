@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Contributor Covenant"
 disableKinds = ["RSS"]
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "aze"
 hasCJKLanguage = true
 EnableMissingTranslationPlaceholders = true
 
@@ -189,3 +189,7 @@ languageCode = "zh-cn"
 languageName = "فارسی"
 languageCode = "fa-IR"
 writingDirection = "rtl"
+
+[Languages.aze]
+languageName = "Azərbaycan"
+languageCode = "aze"
