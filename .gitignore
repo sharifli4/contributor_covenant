@@ -7,3 +7,4 @@
 # Other
 .nova/
 .hugo_build.lock
+.idea
